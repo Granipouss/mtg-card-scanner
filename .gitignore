@@ -1,0 +1,7 @@
+__pycache__
+
+refs
+tests
+data.db*
+index.bin*
+scryfall.json
